@@ -16,7 +16,7 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -103,9 +103,9 @@
       <Project>{cadfb630-279f-427c-96a9-d2f9aa718648}</Project>
       <Name>Common.Logging.Core.2010-net20</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\src\Common.Logging.Log4Net1212\Common.Logging.Log4Net1212.2010.csproj">
+    <ProjectReference Include="..\..\src\Common.Logging.Log4Net1211\Common.Logging.Log4Net1211.2010.csproj">
       <Project>{9D009B2A-FA3C-444D-9159-F6A17B1D9042}</Project>
-      <Name>Common.Logging.Log4Net1212.2010</Name>
+      <Name>Common.Logging.Log4Net1211.2010</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\src\Common.Logging\Common.Logging.2010.csproj">
       <Project>{440D903A-D409-48FC-A6C4-3EE69CCD663B}</Project>

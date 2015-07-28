@@ -3,7 +3,7 @@
 		<assembly location=".\build\net20\Common.Logging\Debug\Common.Logging.dll" documentation=".\build\net20\Common.Logging\Debug\Common.Logging.xml" />
 		<assembly location=".\build\net20\Common.Logging.EntLib\Debug\Common.Logging.EntLib.dll" documentation=".\build\net20\Common.Logging.EntLib\Debug\Common.Logging.EntLib.xml" />
 		<assembly location=".\build\net20\Common.Logging.EntLib41\Debug\Common.Logging.EntLib41.dll" documentation=".\build\net20\Common.Logging.EntLib41\Debug\Common.Logging.EntLib41.xml" />
-		<assembly location=".\build\net20\Common.Logging.Log4Net129\Debug\Common.Logging.Log4Net129.dll" documentation=".\build\net20\Common.Logging.Log4Net129\Debug\Common.Logging.Log4Net129.xml" />
+		<assembly location=".\build\net20\Common.Logging.Log4Net130\Debug\Common.Logging.Log4Net130.dll" documentation=".\build\net20\Common.Logging.Log4Net130\Debug\Common.Logging.Log4Net130.xml" />
 		<assembly location=".\build\net20\Common.Logging.Log4Net\Debug\Common.Logging.Log4Net.dll" documentation=".\build\net20\Common.Logging.Log4Net\Debug\Common.Logging.Log4Net.xml" />
 		<assembly location=".\build\net20\Common.Logging.NLog\Debug\Common.Logging.NLog.dll" documentation=".\build\net20\Common.Logging.NLog\Debug\Common.Logging.NLog.xml" />
 	</assemblies>
